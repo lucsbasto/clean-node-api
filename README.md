@@ -20,3 +20,8 @@ Criar alias para os comandos do git
 ```%cn = committer name```
 
 ```%cr = data do commit```
+
+Conventional Commits
+
+chore = add new config, setup or lib
+

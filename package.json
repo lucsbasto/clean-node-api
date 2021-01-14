@@ -1,0 +1,8 @@
+{
+  "name": "Clean Node API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucsbasto/clean-node-api.git",
+  "author": "Lucas Bastos <lucsbasto@gmail.com>",
+  "license": "MIT"
+}

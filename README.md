@@ -186,7 +186,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 	l = !git log --pretty=format:'%C(blue) %h %C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
 ```
 
-Criar alias para os comandos do git
+Criar alias para os comandos do git:
 
 ```git log --pretty=format:'%C(blue) %h %C(red) %d %C(white) %s - %C(cyan) %cn, %C(green) %cr'```
 
